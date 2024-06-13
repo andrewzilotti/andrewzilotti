@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Andrew Zilotti</h1>
 <h3 align="center">Por enquanto, estudante de programação,<br/>
   mas procurando trabalho ou projetos para começar no ramo.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewzilotti&&label=Profile+views&color=0e75b6&style=for-the-badg&abbreviated=true"/> </p>
 
