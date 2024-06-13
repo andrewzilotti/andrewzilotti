@@ -22,11 +22,8 @@
 </picture>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewzilotti&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
-
-
-
 
 <!-------- Cobrinha -------->
 <picture align="center">
