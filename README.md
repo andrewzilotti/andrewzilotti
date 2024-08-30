@@ -4,10 +4,7 @@ Meu aprendizado é autodidata e realizo através de recursos gratuitos disponív
 Meu objetivo é desenvolver projetos que possam auxiliar outras pessoas que, assim como eu, não têm condições financeiras para investir em cursos pagos ou não dispõem de tempo para frequentar uma instituição acadêmica.<p/>
 
 #
-<div>
-  <img align="right" alt="Coding" width="300px" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
-</div>
-    
+
 - 🌱 Estudando: Html, Css3, JavaScrip.
 - 😄 Pronouns: Ele/Dele
 
