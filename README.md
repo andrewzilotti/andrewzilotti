@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, eu sou Andrew Zilotti</h1>
 <p align="center">Estou aqui apenas. 😄</br>
 
-#
-
 <!-------- Cobrinha -------->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewzilotti/andrewzilotti/output/github-contribution-grid-snake-dark.svg">
