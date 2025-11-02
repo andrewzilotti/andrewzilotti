@@ -1,17 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Andrew Zilotti</h1>
-<p align="center">Atualmente, atuo como garçom em um restaurante e dedico meu tempo livre ao estudo da programação.</br>
-Meu aprendizado é autodidata e realizo através de recursos gratuitos disponíveis no YouTube, sites governamentais e plataformas de ensino online.</br>
-Meu objetivo é desenvolver projetos que possam auxiliar outras pessoas que, assim como eu, não têm condições financeiras para investir em cursos pagos ou não dispõem de tempo para frequentar uma instituição acadêmica.<p/>
+<p align="center">Estou aqui apenas. 😄</br>
 
 #
-
-- 🌱 Estudando: Html, Css3, JavaScrip.
-- 😄 Pronouns: Ele/Dele
-
-<h3 aling="left"> › › Contato<h3/>
-<!--------
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
--------->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrewzilotti/)
 
